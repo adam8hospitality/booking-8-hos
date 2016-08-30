@@ -1,14 +1,5 @@
 'use strict';
 
-/*!
- * Timekit JavaScript SDK
- * Version: 1.5.0
- * http://timekit.io
- *
- * Copyright 2015 Timekit, Inc.
- * The Timekit JavaScript SDK is freely distributable under the MIT license.
- *
- */
 var axios = require('axios');
 var base64 = require('base-64');
 var humps = require('humps');
